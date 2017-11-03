@@ -1,0 +1,90 @@
+.info {
+	min-height:30px;
+	background-color: AliceBlue;
+	border-radius:10px;
+	text-align: center;
+	padding: 10px;
+}
+
+
+.nom {
+	background-color: #1F211C;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-radius:10px;
+	text-align: center;
+}
+
+.photo {
+	border-radius: 80px;
+	margin: 15px;
+}
+
+ul {
+	list-style: none;
+	margin-left:0;
+	padding-left:0;
+}
+
+li {
+	text-align: center;
+	font-family: 'Pangolin', cursive;
+	font-size: 18px;
+	margin: 10px;
+}
+
+.center.navbar .nav,
+.center.navbar .nav > li {
+    float:none;
+    display:inline-block;
+    *display:inline; /* ie7 fix */
+    *zoom:1; /* hasLayout ie7 trigger */
+    vertical-align: top;
+}
+
+.center .navbar-inner {
+    text-align:center;
+}
+
+.experiences {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	border-radius:10px;
+	border: 1px solid #D2D6D9;
+}
+
+hr {
+	color: #3D4242; 
+}
+.compétences {
+	padding: 20px;
+	text-align: center;
+	border-radius:10px;
+	background-color: #FFEA86;
+}
+
+a{
+    text-decoration: none;
+    color: black; 
+}
+
+h1, h2, h3, h4, h5 {
+	font-family: 'Patrick Hand SC', cursive;
+	font-weight: bold;
+}
+
+h5 {
+	font-size: 18px;
+}
+
+.réseaux {
+	display: block;
+	margin-bottom: 30px;
+}
+
+p {
+	font-family: 'Pangolin', cursive;
+	font-size: 18px;
+}
